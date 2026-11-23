@@ -2,6 +2,8 @@
 
 **Independent engineer for LLM context compression & agent memory. Audit first, then implement. Text/email only.**
 
+> 本页同步发布于 GitHub：https://github.com/deepseekqing/llm-context-memory-services
+
 我是专注 LLM 上下文压缩与记忆工程的独立工程师，方法论与评测口径已公开可查（Zenodo 系统报告：https://doi.org/10.5281/zenodo.24464277）。专门帮中小 AI 团队解决：长对话 Token 暴涨、压缩后失忆、记忆越用越乱且无法评测。先做 1 周低成本体检出方案，确认有效再实施——发我一段痛点描述，24 小时内回评估与报价。
 
 📮 联系：954543236@qq.com（仅文字/邮件，不安排语音、视频或面谈）
