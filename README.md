@@ -80,3 +80,9 @@ AI 应用（客服、内容、教育、编程助手等）跑久了会碰到四�
 
 ---
 © 2026 汤梓辰 (Tang Zichen). All rights reserved. 本页为服务说明，未经许可不得转载。
+
+## 方法与数据（公开）
+
+- 方法预印本（v0.1.1 补丁版）：**https://doi.org/10.5281/zenodo.24467658**（concept DOI：https://doi.org/10.5281/zenodo.24464276）
+- 迁移/连续性评测协议（公开可复现）：https://github.com/deepseekqing/agent-migration-eval
+- 说明：预印本为工程报告（非同行评审），含压缩/记忆/接续的可验收方法与实测；协议与结果公开，私有台账不公开。
